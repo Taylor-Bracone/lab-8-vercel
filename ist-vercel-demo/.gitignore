@@ -23,5 +23,5 @@
 
 storybook-static
 custom-elements.json
-.env
+.env.md
 .vercel
